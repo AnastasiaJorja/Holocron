@@ -247,7 +247,7 @@ class SkillForm(FlaskForm):
     submit3 = SubmitField("Add Skill")
 ```
 
-## `app.py`
+## `app.py
 
 Update both the `resumeBuild()` and `resumeDisplay()` functions to load the appropriate data from the database, and send the data to the template. The process will be extremely similar to the changes required for the referees - so follow the steps (modifying the code as appropriate) for that section.
 
